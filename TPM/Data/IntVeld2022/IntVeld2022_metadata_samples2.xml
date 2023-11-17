@@ -1,0 +1,2856 @@
+<Id db="BioSample" is_primary="1">SAMN21343637</Id>
+<Id db="SRA">SRS10056000</Id>
+<Id db="GEO">GSM5566057</Id>
+</Ids>
+<Description>
+    <Title>TR4755-URO-RAD</Title>
+    <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+        <OrganismName>Homo sapiens</OrganismName>
+    </Organism>
+</Description>
+<Owner>
+    <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+    <Contacts>
+        <Contact email="m.best@vumc.nl">
+            <Name>
+                <First>Myron</First>
+                <Last>Best</Last>
+            </Name>
+        </Contact>
+    </Contacts>
+</Owner>
+<Models>
+    <Model>Generic</Model>
+</Models>
+<Package display_name="Generic">Generic.1.0</Package>
+<Attributes>
+    <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">
+        Blood_Platelets_75869</Attribute>
+    <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+        Thrombocytes</Attribute>
+    <Attribute attribute_name="classification group">Malignant</Attribute>
+    <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+</Attributes>
+<Links>
+    <Link type="url" label="GEO Sample GSM5566057">
+        https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566057</Link>
+    <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+</Links>
+<Status status="live" when="2022-08-05T18:39:58.273" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:21.903" submission_date="2021-09-07T20:05:19.817" id="21343636"
+    accession="SAMN21343636">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343636</Id>
+        <Id db="SRA">SRS10056002</Id>
+        <Id db="GEO">GSM5566056</Id>
+    </Ids>
+    <Description>
+        <Title>TR4699-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_73105</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566056">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566056</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.250" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:21.667" submission_date="2021-09-07T20:05:19.203" id="21343635"
+    accession="SAMN21343635">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343635</Id>
+        <Id db="SRA">SRS10055998</Id>
+        <Id db="GEO">GSM5566055</Id>
+    </Ids>
+    <Description>
+        <Title>TR4697-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_70685</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566055">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566055</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.243" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:18.350" submission_date="2021-09-07T20:05:18.687" id="21343634"
+    accession="SAMN21343634">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343634</Id>
+        <Id db="SRA">SRS10055997</Id>
+        <Id db="GEO">GSM5566054</Id>
+    </Ids>
+    <Description>
+        <Title>TR4696-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_70249</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566054">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566054</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.227" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:18.537" submission_date="2021-09-07T20:05:18.310" id="21343633"
+    accession="SAMN21343633">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343633</Id>
+        <Id db="SRA">SRS10055996</Id>
+        <Id db="GEO">GSM5566053</Id>
+    </Ids>
+    <Description>
+        <Title>TR4694-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_69298</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566053">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566053</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.210" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:18.143" submission_date="2021-09-07T20:05:17.953" id="21343632"
+    accession="SAMN21343632">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343632</Id>
+        <Id db="SRA">SRS10055994</Id>
+        <Id db="GEO">GSM5566052</Id>
+    </Ids>
+    <Description>
+        <Title>TR4693-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_69210</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566052">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566052</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.203" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:21.310" submission_date="2021-09-07T20:05:17.510" id="21343631"
+    accession="SAMN21343631">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343631</Id>
+        <Id db="SRA">SRS10055995</Id>
+        <Id db="GEO">GSM5566051</Id>
+    </Ids>
+    <Description>
+        <Title>TR4721-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_69062</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566051">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566051</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.190" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:21.113" submission_date="2021-09-07T20:05:17.003" id="21343630"
+    accession="SAMN21343630">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343630</Id>
+        <Id db="SRA">SRS10055993</Id>
+        <Id db="GEO">GSM5566050</Id>
+    </Ids>
+    <Description>
+        <Title>TR4720-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_68280</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566050">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566050</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.173" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:20.920" submission_date="2021-09-07T20:05:16.417" id="21343629"
+    accession="SAMN21343629">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343629</Id>
+        <Id db="SRA">SRS10055992</Id>
+        <Id db="GEO">GSM5566049</Id>
+    </Ids>
+    <Description>
+        <Title>TR4611-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_67268</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566049">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566049</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.163" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:23.627" submission_date="2021-09-07T20:05:15.890" id="21343628"
+    accession="SAMN21343628">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343628</Id>
+        <Id db="SRA">SRS10055991</Id>
+        <Id db="GEO">GSM5566048</Id>
+    </Ids>
+    <Description>
+        <Title>TR4610-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_66945</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566048">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566048</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.157" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:23.407" submission_date="2021-09-07T20:05:15.533" id="21343627"
+    accession="SAMN21343627">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343627</Id>
+        <Id db="SRA">SRS10055990</Id>
+        <Id db="GEO">GSM5566047</Id>
+    </Ids>
+    <Description>
+        <Title>TR4607-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_65285</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566047">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566047</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.147" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:23.190" submission_date="2021-09-07T20:05:15.103" id="21343626"
+    accession="SAMN21343626">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343626</Id>
+        <Id db="SRA">SRS10055989</Id>
+        <Id db="GEO">GSM5566046</Id>
+    </Ids>
+    <Description>
+        <Title>TR4606-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_65230</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566046">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566046</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.130" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:23.017" submission_date="2021-09-07T20:05:14.680" id="21343625"
+    accession="SAMN21343625">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343625</Id>
+        <Id db="SRA">SRS10055988</Id>
+        <Id db="GEO">GSM5566045</Id>
+    </Ids>
+    <Description>
+        <Title>TR4130-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_60926</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566045">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566045</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.117" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:17.360" submission_date="2021-09-07T20:05:13.640" id="21343624"
+    accession="SAMN21343624">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343624</Id>
+        <Id db="SRA">SRS10055987</Id>
+        <Id db="GEO">GSM5566044</Id>
+    </Ids>
+    <Description>
+        <Title>TR4065-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_60164</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566044">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566044</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.093" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:16.957" submission_date="2021-09-07T20:05:13.187" id="21343623"
+    accession="SAMN21343623">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343623</Id>
+        <Id db="SRA">SRS10055984</Id>
+        <Id db="GEO">GSM5566041</Id>
+    </Ids>
+    <Description>
+        <Title>TR3960-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_57542</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566041">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566041</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.077" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:16.777" submission_date="2021-09-07T20:05:12.480" id="21343622"
+    accession="SAMN21343622">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343622</Id>
+        <Id db="SRA">SRS10055983</Id>
+        <Id db="GEO">GSM5566040</Id>
+    </Ids>
+    <Description>
+        <Title>TR3827-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_61076</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566040">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566040</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.053" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:17.157" submission_date="2021-09-07T20:05:11.773" id="21343621"
+    accession="SAMN21343621">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343621</Id>
+        <Id db="SRA">SRS10055981</Id>
+        <Id db="GEO">GSM5566039</Id>
+    </Ids>
+    <Description>
+        <Title>TR3830-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_58765</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566039">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566039</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.030" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:17.573" submission_date="2021-09-07T20:05:11.007" id="21343620"
+    accession="SAMN21343620">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343620</Id>
+        <Id db="SRA">SRS10055986</Id>
+        <Id db="GEO">GSM5566043</Id>
+    </Ids>
+    <Description>
+        <Title>TR4062-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_57504</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566043">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566043</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.007" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:17.947" submission_date="2021-09-07T20:05:10.430" id="21343619"
+    accession="SAMN21343619">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343619</Id>
+        <Id db="SRA">SRS10055985</Id>
+        <Id db="GEO">GSM5566042</Id>
+    </Ids>
+    <Description>
+        <Title>TR3961-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_62888</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566042">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566042</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:58.000" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:17.753" submission_date="2021-09-07T20:05:09.647" id="21343618"
+    accession="SAMN21343618">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343618</Id>
+        <Id db="SRA">SRS10055982</Id>
+        <Id db="GEO">GSM5566038</Id>
+    </Ids>
+    <Description>
+        <Title>TR3765-URO-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_57468</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566038">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566038</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.987" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:18.723" submission_date="2021-09-07T20:05:09.140" id="21343617"
+    accession="SAMN21343617">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343617</Id>
+        <Id db="SRA">SRS10055980</Id>
+        <Id db="GEO">GSM5566037</Id>
+    </Ids>
+    <Description>
+        <Title>TR3657-Uro-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_58888</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566037">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566037</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.970" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:18.900" submission_date="2021-09-07T20:05:08.293" id="21343616"
+    accession="SAMN21343616">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343616</Id>
+        <Id db="SRA">SRS10055978</Id>
+        <Id db="GEO">GSM5566036</Id>
+    </Ids>
+    <Description>
+        <Title>TR3652-Uro-RAD</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_56672</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566036">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566036</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.960" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:19.073" submission_date="2021-09-07T20:05:07.907" id="21343615"
+    accession="SAMN21343615">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343615</Id>
+        <Id db="SRA">SRS10055979</Id>
+        <Id db="GEO">GSM5566035</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-56297-TR2823</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_56297</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566035">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566035</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.940" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:19.463" submission_date="2021-09-07T20:05:07.437" id="21343614"
+    accession="SAMN21343614">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343614</Id>
+        <Id db="SRA">SRS10055977</Id>
+        <Id db="GEO">GSM5566034</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-56114-TR2822</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_56114</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566034">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566034</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.920" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:19.250" submission_date="2021-09-07T20:05:07.040" id="21343613"
+    accession="SAMN21343613">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343613</Id>
+        <Id db="SRA">SRS10055976</Id>
+        <Id db="GEO">GSM5566033</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-55613-TR2755</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_55613</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566033">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566033</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.917" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:19.693" submission_date="2021-09-07T20:05:06.360" id="21343612"
+    accession="SAMN21343612">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343612</Id>
+        <Id db="SRA">SRS10055975</Id>
+        <Id db="GEO">GSM5566032</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-55450-TR2860</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_55450</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566032">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566032</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.890" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:19.873" submission_date="2021-09-07T20:05:05.773" id="21343611"
+    accession="SAMN21343611">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343611</Id>
+        <Id db="SRA">SRS10055974</Id>
+        <Id db="GEO">GSM5566031</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-55178-TR2753</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_55178</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566031">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566031</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.880" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.040" submission_date="2021-09-07T20:05:04.940" id="21343610"
+    accession="SAMN21343610">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343610</Id>
+        <Id db="SRA">SRS10055973</Id>
+        <Id db="GEO">GSM5566030</Id>
+    </Ids>
+    <Description>
+        <Title>RAD-ProsBlad-54898-TR2752</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_54898</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Urothelial Carcinoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566030">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566030</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.870" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.240" submission_date="2021-09-07T20:05:04.377" id="21343609"
+    accession="SAMN21343609">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343609</Id>
+        <Id db="SRA">SRS10055972</Id>
+        <Id db="GEO">GSM5566029</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-2-0594-TR2088</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstAP-2-0594-TR2088</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566029">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566029</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.863" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.420" submission_date="2021-09-07T20:05:04.010" id="21343608"
+    accession="SAMN21343608">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343608</Id>
+        <Id db="SRA">SRS10055971</Id>
+        <Id db="GEO">GSM5566028</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-1-0091-TR2087</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstAP-1-0091-TR2087</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566028">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566028</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.850" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.593" submission_date="2021-09-07T20:05:03.657" id="21343607"
+    accession="SAMN21343607">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343607</Id>
+        <Id db="SRA">SRS10055969</Id>
+        <Id db="GEO">GSM5566027</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-2-0622-TR2086</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstAP-2-0622-TR2086</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566027">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566027</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.840" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.793" submission_date="2021-09-07T20:05:02.977" id="21343606"
+    accession="SAMN21343606">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343606</Id>
+        <Id db="SRA">SRS10055970</Id>
+        <Id db="GEO">GSM5566026</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-2-0586-TR2085</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstAP-2-0586-TR2085</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566026">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566026</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.830" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:20.980" submission_date="2021-09-07T20:05:02.123" id="21343605"
+    accession="SAMN21343605">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343605</Id>
+        <Id db="SRA">SRS10055967</Id>
+        <Id db="GEO">GSM5566025</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-3-1135-TR2057</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-3-1135-TR2057</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566025">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566025</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.813" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:21.170" submission_date="2021-09-07T20:05:01.467" id="21343604"
+    accession="SAMN21343604">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343604</Id>
+        <Id db="SRA">SRS10055966</Id>
+        <Id db="GEO">GSM5566024</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-3-1120-TR2056</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-3-1120-TR2056</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566024">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566024</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.793" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:21.437" submission_date="2021-09-07T20:05:00.757" id="21343603"
+    accession="SAMN21343603">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343603</Id>
+        <Id db="SRA">SRS10055968</Id>
+        <Id db="GEO">GSM5566023</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-3-1076-TR2055</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-3-1076-TR2055</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566023">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566023</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.780" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:30:21.757" submission_date="2021-09-07T20:05:00.050" id="21343602"
+    accession="SAMN21343602">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343602</Id>
+        <Id db="SRA">SRS10055965</Id>
+        <Id db="GEO">GSM5566022</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-3-1058-TR2054</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-3-1058-TR2054</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566022">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566022</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.773" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:53.787" submission_date="2021-09-07T20:04:59.560" id="21343601"
+    accession="SAMN21343601">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343601</Id>
+        <Id db="SRA">SRS10055964</Id>
+        <Id db="GEO">GSM5566021</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-3-1034-TR2053</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-3-1034-TR2053</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566021">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566021</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.750" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:53.613" submission_date="2021-09-07T20:04:59.183" id="21343600"
+    accession="SAMN21343600">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343600</Id>
+        <Id db="SRA">SRS10055963</Id>
+        <Id db="GEO">GSM5566020</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-2-0652-TR2052</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-2-0652-TR2052</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566020">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566020</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.737" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:53.450" submission_date="2021-09-07T20:04:58.817" id="21343599"
+    accession="SAMN21343599">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343599</Id>
+        <Id db="SRA">SRS10055962</Id>
+        <Id db="GEO">GSM5566019</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-unstAP-2-0649-TR2051</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-unstableAP-2-0649-TR2051</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566019">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566019</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.713" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:53.110" submission_date="2021-09-07T20:04:58.437" id="21343598"
+    accession="SAMN21343598">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343598</Id>
+        <Id db="SRA">SRS10055961</Id>
+        <Id db="GEO">GSM5566018</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0585-AP-unstable-TR949</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0585-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566018">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566018</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.680" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:52.947" submission_date="2021-09-07T20:04:58.057" id="21343597"
+    accession="SAMN21343597">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343597</Id>
+        <Id db="SRA">SRS10055960</Id>
+        <Id db="GEO">GSM5566017</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0570-AP-unstable-TR948</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0570-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566017">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566017</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.673" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:52.760" submission_date="2021-09-07T20:04:57.497" id="21343596"
+    accession="SAMN21343596">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343596</Id>
+        <Id db="SRA">SRS10055959</Id>
+        <Id db="GEO">GSM5566016</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0566-AP-unstable-TR947</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0566-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566016">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566016</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.630" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:46.193" submission_date="2021-09-07T20:04:57.163" id="21343595"
+    accession="SAMN21343595">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343595</Id>
+        <Id db="SRA">SRS10055958</Id>
+        <Id db="GEO">GSM5566015</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0540-AP-unstable-TR946</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0540-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566015">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566015</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.623" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:45.983" submission_date="2021-09-07T20:04:56.787" id="21343594"
+    accession="SAMN21343594">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343594</Id>
+        <Id db="SRA">SRS10055957</Id>
+        <Id db="GEO">GSM5566014</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0536-AP-unstable-TR945</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0536-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566014">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566014</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.610" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:46.580" submission_date="2021-09-07T20:04:56.427" id="21343593"
+    accession="SAMN21343593">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343593</Id>
+        <Id db="SRA">SRS10055956</Id>
+        <Id db="GEO">GSM5566013</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-2-0533-AP-unstable-TR944</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-2-0533-AP-unstable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566013">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566013</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.590" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:46.400" submission_date="2021-09-07T20:04:56.093" id="21343592"
+    accession="SAMN21343592">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343592</Id>
+        <Id db="SRA">SRS10055954</Id>
+        <Id db="GEO">GSM5566012</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-stableAP-1-0071-TR2050</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-stableAP-1_0071-TR2050</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566012">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566012</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.583" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:46.960" submission_date="2021-09-07T20:04:55.753" id="21343591"
+    accession="SAMN21343591">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343591</Id>
+        <Id db="SRA">SRS10055955</Id>
+        <Id db="GEO">GSM5566011</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-stableAP-1-0033-TR2049</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-stableAP-1_0033-TR2049</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566011">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566011</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.567" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:24:47.440" submission_date="2021-09-07T20:04:55.383" id="21343590"
+    accession="SAMN21343590">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343590</Id>
+        <Id db="SRA">SRS10055953</Id>
+        <Id db="GEO">GSM5566010</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-stableAP-1-0032-TR2046</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-stableAP-1_0032-TR2046</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566010">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566010</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.560" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:17.267" submission_date="2021-09-07T20:04:55.063" id="21343589"
+    accession="SAMN21343589">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343589</Id>
+        <Id db="SRA">SRS10055952</Id>
+        <Id db="GEO">GSM5566009</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-stableAP-1-0031-TR2058</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-stableAP-1_0031-TR2058</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566009">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566009</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.543" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:17.047" submission_date="2021-09-07T20:04:54.293" id="21343588"
+    accession="SAMN21343588">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343588</Id>
+        <Id db="SRA">SRS10055951</Id>
+        <Id db="GEO">GSM5566008</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-1-0056-AP-stable-TR936</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-1-0056-AP-stable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566008">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566008</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.537" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:16.853" submission_date="2021-09-07T20:04:53.923" id="21343587"
+    accession="SAMN21343587">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343587</Id>
+        <Id db="SRA">SRS10055950</Id>
+        <Id db="GEO">GSM5566007</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-1-0024-AP-stable-TR943</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-1-0024-AP-stable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566007">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566007</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.530" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:12.260" submission_date="2021-09-07T20:04:53.347" id="21343586"
+    accession="SAMN21343586">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343586</Id>
+        <Id db="SRA">SRS10055949</Id>
+        <Id db="GEO">GSM5566006</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-1-0018-AP-stable-TR942</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-1-0018-AP-stable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566006">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566006</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.527" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:19.587" submission_date="2021-09-07T20:04:53.003" id="21343585"
+    accession="SAMN21343585">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343585</Id>
+        <Id db="SRA">SRS10055948</Id>
+        <Id db="GEO">GSM5566005</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-1-0006-AP-stable-TR938</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-1-0006-AP-stable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566005">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566005</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.520" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:19.357" submission_date="2021-09-07T20:04:52.260" id="21343584"
+    accession="SAMN21343584">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343584</Id>
+        <Id db="SRA">SRS10055947</Id>
+        <Id db="GEO">GSM5566004</Id>
+    </Ids>
+    <Description>
+        <Title>UMCU-1-0002-AP-stable-TR937</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_UMCU-1-0002-AP-stable</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">nonMalignant</Attribute>
+        <Attribute attribute_name="patient group">Angina Pectoris</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566004">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566004</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.513" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:19.170" submission_date="2021-09-07T20:04:51.840" id="21343583"
+    accession="SAMN21343583">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343583</Id>
+        <Id db="SRA">SRS10055946</Id>
+        <Id db="GEO">GSM5566003</Id>
+    </Ids>
+    <Description>
+        <Title>TR4626-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_4550</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566003">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566003</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.490" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:15.300" submission_date="2021-09-07T20:04:51.357" id="21343582"
+    accession="SAMN21343582">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343582</Id>
+        <Id db="SRA">SRS10055945</Id>
+        <Id db="GEO">GSM5566002</Id>
+    </Ids>
+    <Description>
+        <Title>TR4618-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2582</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566002">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566002</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.467" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:15.050" submission_date="2021-09-07T20:04:50.820" id="21343581"
+    accession="SAMN21343581">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343581</Id>
+        <Id db="SRA">SRS10055944</Id>
+        <Id db="GEO">GSM5566001</Id>
+    </Ids>
+    <Description>
+        <Title>TR4625-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2962</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566001">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566001</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.457" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:14.807" submission_date="2021-09-07T20:04:50.407" id="21343580"
+    accession="SAMN21343580">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343580</Id>
+        <Id db="SRA">SRS10055943</Id>
+        <Id db="GEO">GSM5566000</Id>
+    </Ids>
+    <Description>
+        <Title>TR4621-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2498</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5566000">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5566000</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.443" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:14.557" submission_date="2021-09-07T20:04:49.953" id="21343579"
+    accession="SAMN21343579">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343579</Id>
+        <Id db="SRA">SRS10055942</Id>
+        <Id db="GEO">GSM5565999</Id>
+    </Ids>
+    <Description>
+        <Title>TR4615-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_1770</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565999">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565999</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.433" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:14.373" submission_date="2021-09-07T20:04:49.483" id="21343578"
+    accession="SAMN21343578">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343578</Id>
+        <Id db="SRA">SRS10055941</Id>
+        <Id db="GEO">GSM5565998</Id>
+    </Ids>
+    <Description>
+        <Title>TR4617-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2537</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565998">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565998</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.420" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:11.350" submission_date="2021-09-07T20:04:49.110" id="21343577"
+    accession="SAMN21343577">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343577</Id>
+        <Id db="SRA">SRS10055940</Id>
+        <Id db="GEO">GSM5565997</Id>
+    </Ids>
+    <Description>
+        <Title>TR4735-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_7949</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565997">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565997</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.410" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:11.177" submission_date="2021-09-07T20:04:48.690" id="21343576"
+    accession="SAMN21343576">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343576</Id>
+        <Id db="SRA">SRS10055939</Id>
+        <Id db="GEO">GSM5565996</Id>
+    </Ids>
+    <Description>
+        <Title>TR4623-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_3365</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565996">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565996</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.397" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:10.987" submission_date="2021-09-07T20:04:48.157" id="21343575"
+    accession="SAMN21343575">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343575</Id>
+        <Id db="SRA">SRS10055938</Id>
+        <Id db="GEO">GSM5565995</Id>
+    </Ids>
+    <Description>
+        <Title>TR4619-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2680</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565995">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565995</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.390" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:10.793" submission_date="2021-09-07T20:04:47.780" id="21343574"
+    accession="SAMN21343574">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343574</Id>
+        <Id db="SRA">SRS10055937</Id>
+        <Id db="GEO">GSM5565994</Id>
+    </Ids>
+    <Description>
+        <Title>TR4624-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_2801</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565994">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565994</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.377" />
+</BioSample>
+<BioSample access="public" publication_date="2022-08-06T00:00:00.000"
+    last_update="2022-08-06T02:25:06.510" submission_date="2021-09-07T20:04:47.417" id="21343573"
+    accession="SAMN21343573">
+    <Ids>
+        <Id db="BioSample" is_primary="1">SAMN21343573</Id>
+        <Id db="SRA">SRS10055936</Id>
+        <Id db="GEO">GSM5565993</Id>
+    </Ids>
+    <Description>
+        <Title>TR4622-SARC-NKI</Title>
+        <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+            <OrganismName>Homo sapiens</OrganismName>
+        </Organism>
+    </Description>
+    <Owner>
+        <Name>Neuro-oncology Research Group, Neurosurgery, VU University Medical Center</Name>
+        <Contacts>
+            <Contact email="m.best@vumc.nl">
+                <Name>
+                    <First>Myron</First>
+                    <Last>Best</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+        <Attribute attribute_name="source_name" harmonized_name="source_name"
+            display_name="source name">Blood_Platelets_3354</Attribute>
+        <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">
+            Thrombocytes</Attribute>
+        <Attribute attribute_name="classification group">Malignant</Attribute>
+        <Attribute attribute_name="patient group">Sarcoma</Attribute>
+    </Attributes>
+    <Links>
+        <Link type="url" label="GEO Sample GSM5565993">
+            https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5565993</Link>
+        <Link type="entrez" target="bioproject" label="PRJNA761450">761450</Link>
+    </Links>
+    <Status status="live" when="2022-08-05T18:39:57.357" />
+</BioSample>
